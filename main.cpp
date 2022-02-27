@@ -153,6 +153,6 @@ Order:
 int main() {
 	menu();
 	system("pause");
-	cout<<"test github";
+	cout<<test update";
 	return 0;
 }
